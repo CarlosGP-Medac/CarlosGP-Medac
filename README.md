@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Carlos Armando</h1>
 <h3 align="center">Estudiante en practicas de MEDAC</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Actualmente estoy aprendiendo a usar Microsoft Visual Studio, Html, Css y JavaScript:</h3>
 <p align="left">
 </p>
 
